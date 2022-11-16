@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">App Taller Interfaz de Usuario</string>
+    <string name="des_img">logo</string>
+    <string name="title_Bienvenido">¡Bienvenido!</string>
+    <string name="continuing">inicia sesion para continuar</string>
+    <string name="username">usuario</string>
+    <string name="password">contraseña</string>
+    <string name="forgot">Olvidaste tu contraseña?</string>
+    <string name="btnLogin">iniciar</string>
+    <string name="newUser">Eres nuevo? Registrate!</string>
+    <string name="title_Registrarse">Registrese,</string>
+    <string name="singUpContinuing">Registrate para empezar</string>
+    <string name="singUpUsername">Nombre completo</string>
+    <string name="emailLabel">Email</string>
+    <string name="confirmPassword">Confirmar contraseña</string>
+    <string name="btnSingUp">Registrar</string>
+    <string name="newUserSingUp">Ya tienes una cuenta? Inicia sesion!</string>
+</resources>

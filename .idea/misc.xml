@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Jhonatan/AndroidStudioProjects/AppTallerInterfazdeUsuario/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.2075" />
+        <entry key="..\:/Users/Jhonatan/AndroidStudioProjects/AppTallerInterfazdeUsuario/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.2075" />
+        <entry key="..\:/Users/Jhonatan/AndroidStudioProjects/AppTallerInterfazdeUsuario/app/src/main/res/layout/activity_app_adapter.xml" value="0.2" />
+        <entry key="..\:/Users/Jhonatan/AndroidStudioProjects/AppTallerInterfazdeUsuario/app/src/main/res/layout/activity_barra.xml" value="0.2" />
+        <entry key="..\:/Users/Jhonatan/AndroidStudioProjects/AppTallerInterfazdeUsuario/app/src/main/res/layout/activity_category_adapter.xml" value="0.34754402224281744" />
+        <entry key="..\:/Users/Jhonatan/AndroidStudioProjects/AppTallerInterfazdeUsuario/app/src/main/res/layout/activity_forgot.xml" value="0.2" />
+        <entry key="..\:/Users/Jhonatan/AndroidStudioProjects/AppTallerInterfazdeUsuario/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Users/Jhonatan/AndroidStudioProjects/AppTallerInterfazdeUsuario/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Jhonatan/AndroidStudioProjects/AppTallerInterfazdeUsuario/app/src/main/res/layout/activity_menu.xml" value="0.22" />
+        <entry key="..\:/Users/Jhonatan/AndroidStudioProjects/AppTallerInterfazdeUsuario/app/src/main/res/layout/activity_settings.xml" value="0.22" />
+        <entry key="..\:/Users/Jhonatan/AndroidStudioProjects/AppTallerInterfazdeUsuario/app/src/main/res/layout/activity_sing_up.xml" value="0.22" />
+        <entry key="..\:/Users/Jhonatan/AndroidStudioProjects/AppTallerInterfazdeUsuario/app/src/main/res/layout/activity_splash.xml" value="0.2" />
+        <entry key="..\:/Users/Jhonatan/AndroidStudioProjects/AppTallerInterfazdeUsuario/app/src/main/res/layout/activity_toolbar.xml" value="0.2" />
+        <entry key="..\:/Users/Jhonatan/AndroidStudioProjects/AppTallerInterfazdeUsuario/app/src/main/res/layout/activity_workspace.xml" value="0.2" />
+        <entry key="..\:/Users/Jhonatan/AndroidStudioProjects/AppTallerInterfazdeUsuario/app/src/main/res/layout/adapter_menu.xml" value="0.33" />
+        <entry key="..\:/Users/Jhonatan/AndroidStudioProjects/AppTallerInterfazdeUsuario/app/src/main/res/layout/toolbar.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
